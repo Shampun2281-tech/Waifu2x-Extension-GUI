@@ -2519,10 +2519,10 @@ DAIN-NCNN-Vulkan [Скорость:☆     Качество:★★★] [2D-ан�
         <message>
             <location filename="table.cpp" line="76" />
             <source>Image: %1
-GIF: %2
+Animated Image: %2
 Video: %3</source>
             <translation>Изображения: %1
-GIF: %2
+Анимация: %2
 Видео: %3</translation>
         </message>
         <message>

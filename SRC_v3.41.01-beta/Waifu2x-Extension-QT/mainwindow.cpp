@@ -770,16 +770,11 @@ void MainWindow::on_pushButton_HideSettings_clicked()
 */
 void MainWindow::on_comboBox_language_currentIndexChanged(int index)
 {
-    //检测是否存在日本语翻译文件,若存在则删除并修正翻译设定
+    // Remove leftover Japanese pack from old builds; do not remap language indices.
     QString JapaneseQM = Current_Path + "/language_Japanese.qm";
     if(QFile::exists(JapaneseQM))
     {
         QFile::remove(JapaneseQM);
-        // Old builds: 0=EN, 1=CN, 2=JP, 3=TC. JP was removed; index 3 is now Russian.
-        if(ui->comboBox_language->currentIndex()==2)
-        {
-            ui->comboBox_language->setCurrentIndex(0);
-        }
     }
     //==============
     QString qmFilename="";
