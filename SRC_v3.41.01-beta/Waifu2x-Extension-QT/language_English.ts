@@ -4334,6 +4334,11 @@ display the window, double-click to maximize the window.</source>
         <source>Old versions of Waifu2x-NCNN-Vulkan doesn&apos;t support Multi-GPUs when processing Video and GIF.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <location filename="mainwindow.ui" line="10291"/>
+        <source>Language:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>TopSupportersList</name>
