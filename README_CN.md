@@ -23,7 +23,7 @@
 
 #### [📝点击查看完整更新日志](https://github.com/AaronFeng753/Waifu2x-Extension-GUI/blob/master/Change_log_CN.md)
 
-支持的语言: English, 简体中文, 繁體中文.
+支持的语言: English, 简体中文, 繁體中文, Русский.
 
 [🔗点击访问位于Gitee(码云, 开源中国)的安装包下载页面](https://gitee.com/aaronfeng0711/Waifu2x-Extension-GUI/releases/latest)
 

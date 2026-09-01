@@ -75,8 +75,9 @@ FORMS += \
     topsupporterslist.ui
 
 TRANSLATIONS += language_English.ts \
-               language_Chinese.ts \
-               language_TraditionalChinese.ts
+                language_Chinese.ts \
+                language_TraditionalChinese.ts \
+                language_Russian.ts
 
 TARGET = Waifu2x-Extension-GUI
 

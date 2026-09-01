@@ -23,7 +23,7 @@ Download Latest Build➡: https://github.com/AaronFeng753/Waifu2x-Extension-GUI/
 
 #### [📝Full change log](https://github.com/AaronFeng753/Waifu2x-Extension-GUI/blob/master/Change_log.md)
 
-Supported Languages: English, 简体中文, 繁體中文.
+Supported Languages: English, 简体中文, 繁體中文, Русский.
 
 # What is Waifu2x-Extension-GUI?
 

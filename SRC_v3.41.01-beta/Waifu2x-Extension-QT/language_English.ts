@@ -2290,7 +2290,7 @@ DAIN-NCNN-Vulkan [Speed:☆     Image quality:★★★] [2D Anime]&amp;[3D Real
     <message>
         <location filename="table.cpp" line="76"/>
         <source>Image: %1
-GIF: %2
+Animated Image: %2
 Video: %3</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4332,6 +4332,11 @@ display the window, double-click to maximize the window.</source>
     <message>
         <location filename="waifu2x_ncnn_vulkan.cpp" line="1828"/>
         <source>Old versions of Waifu2x-NCNN-Vulkan doesn&apos;t support Multi-GPUs when processing Video and GIF.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="mainwindow.ui" line="10291"/>
+        <source>Language:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

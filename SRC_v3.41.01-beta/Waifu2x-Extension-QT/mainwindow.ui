@@ -10262,6 +10262,11 @@ the language for the language settings to fully take effect.</string>
                         <string notr="true">繁體中文(由uimee翻譯)</string>
                        </property>
                       </item>
+                      <item>
+                       <property name="text">
+                        <string notr="true">Русский</string>
+                       </property>
+                      </item>
                      </widget>
                     </item>
                     <item row="0" column="0">
@@ -10283,7 +10288,7 @@ the language for the language settings to fully take effect.</string>
 the language for the language settings to fully take effect.</string>
                       </property>
                       <property name="text">
-                       <string notr="true">Language:</string>
+                       <string>Language:</string>
                       </property>
                       <property name="alignment">
                        <set>Qt::AlignLeading|Qt::AlignLeft|Qt::AlignVCenter</set>
